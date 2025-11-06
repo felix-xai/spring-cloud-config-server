@@ -1,0 +1,4 @@
+user:
+  role: ADMIN
+welcome:
+  message: Welcome from the Config Server!
